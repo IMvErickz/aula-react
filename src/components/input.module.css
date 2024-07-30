@@ -7,6 +7,11 @@
     border-radius: 4px;
 }
 
+.input::placeholder{
+    color:white;
+    font-size: 16px;
+}
+
 .input2{
     width: 240px;
     height: 40px;
